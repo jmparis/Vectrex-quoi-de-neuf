@@ -63,8 +63,8 @@ $ 37 pièce à l'époque. Un 6502 coutait $ 6.
 # Anti-buzz
 
 Au choix:
-- un investissement de $60 sur eBay + $40 FDP + 30 € de taxe
-- Achat direct chez Aliexpress pour 0,40 € !
+* un investissement de $60 sur eBay + $40 FDP + 30 € de taxe
+* Achat direct chez Aliexpress pour 0,40 € !
 
 Vous avez 4h :smile:
 
