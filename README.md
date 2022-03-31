@@ -1,13 +1,15 @@
 # Vectrex-quoi-de-neuf-en-2021
-## (c) Jean-Michel Paris
+## Intro
 
-Présentation des nouveautés Hardware et Software autour de la console Vectrex #Re-Play #2021
+Présentation des nouveautés Hardware et Software autour de la console Vectrex
+Première présentation réalisée au festival http://www.replay-festival.com/ #Re-Play #2021
 
+## Création de la présentation
 
 ``` Shell
 # If not present, install Node.js and npm
 sudo pacman -S nodejs npm
 
-# Generate HTML
+# Generate HTML
 npx @marp-team/marp-cli@latest slideshow.md -o slideshow.html
 ```
