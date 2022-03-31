@@ -147,6 +147,16 @@ Un original
 
 ---
 
+![bg opacity:0.3](./img/JoystickProto/Shell.jpg)
+
+# Joystick
+
+- Une coque imprimée en résine (JLCPCB).
+- Du sanwa pour les bouttons.
+:v:
+
+---
+
 # PiTrex
 
 La PiTrex est une carte très récente (2021).
